@@ -1,0 +1,7 @@
+data_module:
+  batch_size: 32
+  num_workers: 0
+
+dataset:
+  data_dir: data
+  seq_len: 10
