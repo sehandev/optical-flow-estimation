@@ -38,6 +38,13 @@ cd ../helper
 python convert_sintel_pt.py
 ```
 
+# Install dependencies
+
+```bash
+pip install -r requirements.txt
+sudo apt update
+sudo apt install -y libgl1-mesa-glx libglib2.0-0
+```
 
 # Train
 
