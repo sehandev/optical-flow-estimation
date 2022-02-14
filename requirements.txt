@@ -3,3 +3,6 @@ deepspeed
 hydra-core
 pytorch-lightning
 wandb
+
+# --- Project ---
+opencv-python
